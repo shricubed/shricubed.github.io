@@ -20,9 +20,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+h1 { 
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
 }
 p {
     font-size: 1.5em;
