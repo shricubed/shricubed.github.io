@@ -39,6 +39,14 @@ footer {
     font-size: .8em;
 }
 
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
