@@ -45,6 +45,7 @@ input[type=text] {
   margin: 8px 0;
   box-sizing: border-box;
   border-radius: 4px;
+  font-size: 30px;
 }
 
 ul.posts { 
