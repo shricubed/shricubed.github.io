@@ -5,7 +5,11 @@
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<script>
-				alert("test");
+				let lis = document.querySelectorAll("li");
+				for (let i = 0; i < lis.length; i++) {
+					lis[i].style.fontSize = "25px";
+				}
+				document.querySelector("ul").style.padding = "6px";
 			</script>
 		</head>
 		<body>
