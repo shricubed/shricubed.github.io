@@ -5,11 +5,13 @@
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<script>
-				let lis = document.querySelectorAll("li");
-				for (let i = 0; i < lis.length; i++) {
-					lis[i].style.fontSize = "25px";
+				
+				document.querySelector("#dark").addEventListener(click, darkMode);
+				
+				function darkMode() {
+					document.body.style.backgroundColor = "black";
+					document.body.style.color = "white";
 				}
-				document.querySelector("ul").style.padding = "6px";
 			</script>
 		</head>
 		<body>
@@ -20,6 +22,7 @@
          		        <li><a href="/blog">Blog</a></li>
 				<li><a href="/ctf">CTF Resources</a></li>
 	    		</ul>
+				<button id = "dark" type="button>Dark Mode</button>
 			</nav>
 			<div class="container">
 			
