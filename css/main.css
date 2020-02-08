@@ -7,7 +7,8 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    background-color: #F5F7DC;
+    background-color: black;
+    color: white;
 
 }
 nav ul li, footer ul li {
