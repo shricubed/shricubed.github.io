@@ -4,14 +4,9 @@
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.4/lib/darkmode-js.min.js"></script>
 			<script>
-				
-				document.querySelector("#dark").addEventListener("click", darkMode);
-				
-				function darkMode() {
-					document.body.style.backgroundColor = "black";
-					document.body.style.color = "white";
-				}
+  				new Darkmode().showWidget();
 			</script>
 		</head>
 		<body>
@@ -22,7 +17,7 @@
          		        <li><a href="/blog">Blog</a></li>
 				<li><a href="/ctf">CTF Resources</a></li>
 	    		</ul>
-				<button id = "dark" type="button">Dark Mode</button>
+				
 			</nav>
 			<div class="container">
 			
