@@ -30,6 +30,7 @@ a {
 }
 li a {
     color: white;
+    font-size: 30px;
 }
 a:hover {
     text-decoration: underline;
