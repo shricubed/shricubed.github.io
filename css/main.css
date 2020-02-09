@@ -1,12 +1,10 @@
 body {
     margin: 60px auto;
-    width: 100%;
+    width: 70%;
     background-color: #ffefd5;
 }
 
 nav {
-    width: 100vw;
-    height: 30vh;
     background-color: black;
 }
 nav ul, footer ul {
@@ -15,8 +13,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     background-color: black;
-    
-    
+ 
 
 }
 nav ul li, footer ul li {
