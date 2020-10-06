@@ -7,6 +7,11 @@ body {
 nav {
     background-color: black;
 }
+
+div ul {
+    color: white;
+}
+    
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
