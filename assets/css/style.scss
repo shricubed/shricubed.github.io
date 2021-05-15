@@ -3,12 +3,13 @@
 
 @import "{{ site.theme }}";
 
-body, head {
+body {
   background-color: #000;
   color: #ffffff;
 }
 
 header {
+  color: #ffffff;
   font: 20px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
   
