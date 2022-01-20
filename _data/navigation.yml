@@ -3,8 +3,6 @@ main:
     url: /about/
   - title: "Blog"
     url: /posts/
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "Puzzles"
     url: /puzzles/
   - title: "Resume"
