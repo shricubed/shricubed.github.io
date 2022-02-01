@@ -7,3 +7,5 @@ main:
     url: /puzzles/
   - title: "Resume"
     url: /resume/
+  - title: "Portfolio"
+    url: /portfolio/
