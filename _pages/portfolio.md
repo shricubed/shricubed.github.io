@@ -13,3 +13,17 @@ title: "Portfolio"
     </div>
   test
 </section>
+<br>
+<section>
+    <div id="Research" class="section-title">
+        <h1><span>Research</span></h1>
+    </div>
+  test
+</section>
+<br>
+<section>
+    <div id="Other" class="section-title">
+        <h1><span>Other</span></h1>
+    </div>
+  test
+</section>
