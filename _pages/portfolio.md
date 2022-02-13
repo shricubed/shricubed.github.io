@@ -11,7 +11,8 @@ title: "Portfolio"
     <div id="SWE_Projects" class="section-title">
         <h1><span>Personal Projects</span></h1>
     </div>
-  test
+    <h2><a href="https://github.com/shricubed/hebi">Hebi (Anime Database Python API)</a></h2>
+    <p>Developed an API in Python to access a database of anime series and their details</p>
 </section>
 <br>
 <section>
