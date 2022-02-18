@@ -14,6 +14,9 @@ title: "Portfolio"
     <h2><a href="https://github.com/shricubed/hebi">Hebi (Anime Database Python API)</a></h2>
     <p>Developed an API in Python to access a database of anime series and their details</p>
     <br>
+    <h2><a href="https://github.com/shricubed/">Nutri Discord Bot</a></h2>
+    <p>Created a Discord bot for solving word puzzles that scrapes nutrimatic.org and parses output using the BeautifulSoup Python library.</p>
+    <br>
     
 
 </section>
