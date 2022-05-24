@@ -14,7 +14,7 @@ title: "Clubs and Organizations"
     <ul>
       <li>Managed the club social media and created graphics for events.</li>
       <li>Reached out to potential club sponsors.</li>
-      <li>Helped write challenges for UMDCTF 2021/2022.</li>
+        <li>Helped write challenges for UMDCTF 2021/2022.</li> </ul>
   </div>
 </div>
 </section>
@@ -29,7 +29,7 @@ title: "Clubs and Organizations"
     <ul>
       <li>Teaching and organizing a student-led class on Python and Flask web dev.</li>
       <li>Working with 2 other students and a CS faculty member to handle logistics with the STIC program.</li>
-      <li>Writing and grading coding projects to test student's knowledge of web development concepts.</li>
+      <li>Writing and grading coding projects to test student's knowledge of web development concepts.</li></ul>
   </div>
 </div>
 </section>
@@ -43,7 +43,7 @@ title: "Clubs and Organizations"
    <h2><a href="https://integirls.org/puzzle">Puzzle Writer (March 2020 - Present)</a></h2>
     <ul>
       <li>I write logic and word puzzles for middle and high school girls and non-binary students.</li>
-      <li>Worked with the rest of the leadership and writing team to plan online puzzle competitions.</li>
+      <li>Worked with the rest of the leadership and writing team to plan online puzzle competitions.</li></ul>
   </div>
 </div>
   
@@ -58,7 +58,7 @@ title: "Clubs and Organizations"
    <h2><a href="https://2021.umdpuzzle.club/">Puzzle Writer and Team Member (Fall 2020 - Present)</a></h2>
     <ul>
       <li>Writing logic and word puzzles for the yearly UMD Puzzle Hunt taking place around campus.</li>
-      <li>Participating in puzzle hunts on teams representing UMD.</li>
+      <li>Participating in puzzle hunts on teams representing UMD.</li></ul>
   </div>
 </div>
   
@@ -75,7 +75,7 @@ title: "Clubs and Organizations"
     <ul>
       <li>Help make decisions in the UMD Computer Science department as part of the Academics committee.</li>
  <li>Provide suggestions and ideas based on feedback from computer science students and faculty.</li>
- <li>Implement solutions to current issues such as large class sizes and course registration times</li>
+ <li>Implement solutions to current issues such as large class sizes and course registration times</li></ul>
   </div>
 </div>
   
