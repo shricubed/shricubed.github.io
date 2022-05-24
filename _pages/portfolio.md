@@ -1,9 +1,9 @@
 ---
 permalink: /portfolio/
-title: "Portfolio"
+title: "Projects"
 ---
 
-<a href="#SWE_Projects">Personal Projects</a><br>
+<a href="#SWE_Projects">SWE Projects</a><br>
 <a href="#Research">Research</a><br>
 <a href="#Other">Other Projects</a><br>
 
