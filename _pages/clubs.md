@@ -67,8 +67,8 @@ title: "Clubs and Organizations"
 <br>
 <section>
     <div id="advisory" class="section-title">
-        <h1><span>UMD CS Student Advisory Board<span></h1>
-            </div>
+        <h1><span>UMDCS Student Advisory Board</span></h1>
+    </div>
   <div class="card">
   <div class="container">
    <h2><a href="/">Academics Committee Member (Spring 2022 - Present)</a></h2>
