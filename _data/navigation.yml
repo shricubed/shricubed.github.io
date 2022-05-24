@@ -3,10 +3,10 @@ main:
     url: /about/
   - title: "Blog"
     url: /posts/
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
   - title: "Puzzles"
     url: /puzzles/
-  - title: "Resume"
-    url: /resume/
+  - title: "Clubs and Orgs"
+    url: /clubs/
   
