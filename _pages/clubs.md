@@ -64,7 +64,7 @@ title: "Clubs and Organizations"
   
 </section>
   
-    <br>
+<br>
 <section>
     <div id="advisory" class="section-title">
         <h1><span>UMD CS Student Advisory Board<span></h1>
