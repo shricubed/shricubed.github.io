@@ -25,7 +25,7 @@ title: "Clubs and Organizations"
     </div>
 <div class="card">
   <div class="container">
-   <h2><a href="https://stics.umd.edu/">Instructor (Fall 2022)</a></h2>
+   <h2><a href="https://github.com/shricubed/cmsc388j-fall22">Instructor (Fall 2022)</a></h2>
     <ul>
       <li>Teaching and organizing a student-led class on Python and Flask web dev.</li>
       <li>Working with 2 other students and a CS faculty member to handle logistics with the STIC program.</li>
