@@ -1,6 +1,6 @@
 ---
 permalink: /clubs/
-title: "Clubs and Organizations"
+title: ""
 ---
 
 
