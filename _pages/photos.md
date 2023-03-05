@@ -1,4 +1,0 @@
----
-permalink: /photos/
-title: "Photography"
----
