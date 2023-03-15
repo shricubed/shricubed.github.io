@@ -13,7 +13,13 @@ title: "Projects"
     </div>
 <div class="card">
   <div class="container">
-   <h2><a href="https://github.com/shricubed/hebi">Hebi (Anime Database Python API)</a></h2>
+   <h2><a href="https://github.com/Samskrita-Bharati/sUktam">sUktam - Samskritam Pronounciation Helper</a></h2>
+    <p>Developed a web app to help users practice and score their Sanskrit pronounciation</p>
+  </div>
+</div>
+<div class="card">
+  <div class="container">
+   <h2><a href="https://github.com/shricubed/hebi">Hebi - Anime Database Python API</a></h2>
     <p>Developed an API in Python to access a database of anime series and their details</p>
   </div>
 </div>
