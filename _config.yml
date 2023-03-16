@@ -99,7 +99,7 @@ defaults:
       share: true
       related: true
   - scope:
-      path: "_posts/photos"
+      path: "photos"
       type: posts
     values:
       layout: single
