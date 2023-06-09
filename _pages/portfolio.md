@@ -36,7 +36,7 @@ title: "Projects"
     <div id="Research" class="section-title">
         <h1><span>Research</span></h1>
     </div>
-    <p>I'm currently working on the vPing project at the <a href="https://breakerspace.cs.umd.edu/">Breakerspace lab</a> at the University of Maryland, under Dr. Dave Levin. Projects I've worked on in the past are <a href="https://bento.cs.umd.edu/">Bento</a>, a modified version of Tor developed by Breakerspace, and research into random number generation algorithms under Dr. William Gasarch.</p>
+    <p>I previously worked on the vPing project (VPN detection and geolocation) at the <a href="https://breakerspace.cs.umd.edu/">Breakerspace lab</a> at the University of Maryland, under Dr. Dave Levin. Projects I've worked on in the past are <a href="https://bento.cs.umd.edu/">Bento</a>, a modified version of Tor developed by Breakerspace, and research into random number generation algorithms under Dr. William Gasarch.</p>
   
 </section>
 <br>
