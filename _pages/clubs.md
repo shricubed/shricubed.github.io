@@ -25,11 +25,11 @@ title: ""
     </div>
 <div class="card">
   <div class="container">
-   <h2><a href="https://github.com/shricubed/cmsc388j-fall22">Instructor (Fall 2022)</a></h2>
+   <h2><a href="https://github.com/shricubed/cmsc388j-fall22">Instructor (Fall 2022 - Spring 2023)</a></h2>
     <ul>
-      <li>Teaching and organizing a student-led class on Python and Flask web dev.</li>
-      <li>Working with 2 other students and a CS faculty member to handle logistics with the STIC program.</li>
-      <li>Writing and grading coding projects to test student's knowledge of web development concepts.</li></ul>
+      <li>Taught and organized a student-led class on Python and Flask web dev.</li>
+      <li>Worked with 2 other students and a CS faculty member to handle logistics with the Student-Initiated Courses (STIC) program.</li>
+      <li>Wrote and graded coding projects to test student's knowledge of web development concepts.</li></ul>
   </div>
 </div>
 </section>
