@@ -7,8 +7,8 @@ main:
     url: /portfolio/
   - title: "Puzzles"
     url: /puzzles/
-  - title: "Misc"
+  - title: "Portfolio"
     url: /clubs/
-  - title: "Photography"
+  - title: "Photos"
     url: /photos/
   
