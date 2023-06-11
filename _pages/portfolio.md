@@ -1,5 +1,5 @@
 ---
-permalink: /portfolio/
+permalink: /projects/
 title: "Projects"
 ---
 
