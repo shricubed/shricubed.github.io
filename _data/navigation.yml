@@ -4,11 +4,11 @@ main:
   - title: "Blog"
     url: /posts/
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
   - title: "Puzzles"
     url: /puzzles/
   - title: "Portfolio"
-    url: /clubs/
+    url: /portfolio/
   - title: "Photos"
     url: /photos/
   
