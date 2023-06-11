@@ -32,7 +32,7 @@ title: ""
 <br>
   <section>
     <div id="stic" class="section-title">
-        <h1><span>CMSC388J Course Facilitator - Python and Flask Web Development</span></h1>
+        <h1><span>CMSC388J Course Facilitator</span></h1>
     </div>
 <div class="card">
   <div class="container">
