@@ -2,19 +2,32 @@
 permalink: /portfolio/
 title: ""
 ---
-
+<section>
+    <div id="cisco" class="section-title">
+        <h1><span>Cisco</span></h1>
+    </div>
+<div class="card">
+  <div class="container">
+   <h2><a href="">Security Engineer Intern - Duo Security (Summer 2023)</a></h2>
+    <ul>
+    </ul>
+  </div>
+</div>
+</section>
+<br>
 <section>
     <div id="leidos" class="section-title">
         <h1><span>Leidos Inc.</span></h1>
     </div>
 <div class="card">
   <div class="container">
-   <h2><a href="">Cyber Security Engineer Intern</a></h2>
+   <h2><a href="">Cyber Security Engineer Intern (Summer 2022)</a></h2>
     <ul>
     </ul>
   </div>
 </div>
 </section>
+<br>
 <section>
     <div id="csec" class="section-title">
         <h1><span>UMD Cybersecurity Club (CSEC)</span></h1>
