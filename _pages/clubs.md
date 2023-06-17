@@ -98,8 +98,9 @@ title: ""
    <h2><a href="/">Academics Committee Member (Spring 2022 - Present)</a></h2>
     <ul>
       <li>Help make decisions in the UMD Computer Science department as part of the Academics committee.</li>
- <li>Provide suggestions and ideas based on feedback from computer science students and faculty.</li>
- <li>Implement solutions to current issues such as large class sizes and course registration times</li></ul>
+      <li>Provide suggestions and ideas based on feedback from computer science students and faculty.</li>
+      <li>Implement solutions to current issues such as large class sizes and course registration times</li>
+      <li>Help design a syllabus and course materials for CMSC389N - Computer Ethics</li></ul>
   </div>
 </div>
   
