@@ -17,7 +17,7 @@ title: ""
 <br>
 <section>
     <div id="leidos" class="section-title">
-        <h1><span>Leidos Inc.</span></h1>
+        <h1><span>Leidos</span></h1>
     </div>
 <div class="card">
   <div class="container">
