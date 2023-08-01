@@ -3,12 +3,12 @@ main:
     url: /about/
   - title: "Blog"
     url: /posts/
+  - title: "Experience"
+    url: /portfolio/
   - title: "Projects"
     url: /projects/
   - title: "Puzzles"
     url: /puzzles/
-  - title: "Experience"
-    url: /portfolio/
   - title: "Photos"
     url: https://www.instagram.com/shri.snapshots/
   
