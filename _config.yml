@@ -66,7 +66,7 @@ author:
     - label: "Resume"
       icon: "fas fa-fw fa-link"
       url: "https://shricubed.github.io/resume/resume.pdf"
-    - label: "Twitter"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shrikar-vasisht/"
     - label: "GitHub"
