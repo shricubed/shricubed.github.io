@@ -23,6 +23,8 @@ title: ""
   <div class="container">
    <h2><a href="">Cyber Security Engineer Intern (Summer 2022)</a></h2>
     <ul>
+        <li>Worked on a natural language processing project with CVE data to categorize zero-day exploits</li>
+        <li>Used the Pandas and Numpy Python libraries along with TypeDB</li>
     </ul>
   </div>
 </div>
