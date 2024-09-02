@@ -13,6 +13,13 @@ title: "Projects"
     </div>
 <div class="card">
   <div class="container">
+   <h2>i3 Linux Setup</h2>
+    <p>Personal desktop setup using the i3 window manager on Ubuntu</p>
+    <p>Wrote scripts and config files for different software to improve ease of usage and reduce repetitive tasks</p>
+  </div>
+</div>
+<div class="card">
+  <div class="container">
    <h2><a href="https://github.com/Samskrita-Bharati/sUktam">sUktam - Samskritam Pronounciation Helper</a></h2>
     <p>Developed a web app to help users practice and score their Sanskrit pronounciation</p>
   </div>
