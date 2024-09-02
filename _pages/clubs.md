@@ -10,6 +10,7 @@ title: ""
   <div class="container">
    <h2><a href="">Security Engineer Intern - Duo Security (Summer 2023)</a></h2>
     <ul>
+        <li>Developed a fuzzer in C++ and Python for a Windows authentication tool</li>
     </ul>
   </div>
 </div>
