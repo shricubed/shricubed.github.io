@@ -44,5 +44,5 @@ title: "Projects"
     <div id="Other" class="section-title">
         <h1><span>Other</span></h1>
     </div>
-  
+  Nothing here for now!
 </section>
