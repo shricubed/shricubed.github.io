@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Shrikar Vasisht"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a senior CS and Math major at UMD interested in cybersecurity, computer systems, and puzzles."
+  bio    : "I'm a recent graduate of the University of Maryland in CS and math, and currently looking for full-time roles in software and security engineering."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
