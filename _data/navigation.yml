@@ -7,8 +7,6 @@ main:
     url: /portfolio/
   - title: "Projects"
     url: /projects/
-  - title: "Puzzles"
-    url: /puzzles/
   - title: "Photos"
     url: https://www.instagram.com/shri.snapshots/
   
