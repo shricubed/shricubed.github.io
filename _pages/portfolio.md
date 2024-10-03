@@ -20,16 +20,17 @@ title: "Projects"
 </div>
 <div class="card">
   <div class="container">
-   <h2><a href="https://github.com/Samskrita-Bharati/sUktam">sUktam - Samskritam Pronounciation Helper</a></h2>
-    <p>Developed a web app to help users practice and score their Sanskrit pronounciation</p>
+   <h2><a href="">Open-Source Decompilation Project</a></h2>
+    <p>Contributing to an open-source decompilation of a video game using C, Assembly, and Ghidra.</p>
   </div>
 </div>
 <div class="card">
   <div class="container">
-   <h2><a href="https://github.com/shricubed/hebi">Hebi - Anime Database Python API</a></h2>
-    <p>Developed an API in Python to access a database of anime series and their details</p>
+   <h2><a href="https://github.com/Samskrita-Bharati/sUktam">sUktam - Samskritam Pronounciation Helper</a></h2>
+    <p>Developed a web app to help users practice and score their Sanskrit pronounciation</p>
   </div>
 </div>
+
 
 </section>
 <br>
