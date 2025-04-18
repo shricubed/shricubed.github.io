@@ -20,6 +20,13 @@ title: "Projects"
 </div>
 <div class="card">
   <div class="container">
+   <h2><a href="">Rust TCP Proxy</a></h2>
+    <p>Implemented a TCP proxy in Rust for secure traffic forwarding.</p>
+    <p>Utilized crates for async IO and cryptography in order to ensure concurrency and message security.</p>
+  </div>
+</div>
+<div class="card">
+  <div class="container">
    <h2><a href="">Open-Source Decompilation Project</a></h2>
     <p>Contributing to an open-source decompilation of a video game using C, Assembly, and Ghidra.</p>
   </div>
