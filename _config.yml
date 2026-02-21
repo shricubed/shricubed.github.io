@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Shrikar Vasisht"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I'm a recent graduate of the University of Maryland in CS and math, and currently looking for full-time roles in software and security engineering."
+  bio    : "I'm a SWE and alum of the  University of Maryland in CS and math."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
